@@ -1,0 +1,6 @@
+Aide !!!
+
+Vue que le son n'existe pas le jeu n'est pas trop jouable !
+
+(S'il y avait du son) Vous pouvez appuyez sur E et lancer un cailloux, et si la case n'est pas piéger elle émet un mélodie
+si la case est piger elle émet un son stridant indiquant que la case est pièger
